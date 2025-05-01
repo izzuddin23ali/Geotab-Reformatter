@@ -1,0 +1,24 @@
+{
+  "name": "geotab reformatter",
+  "supportEmail": "heyizzuddin@talkwithalfred.com",
+  "version": "0.0.1",
+  "items": [{
+    
+    
+    "url": "geotabReformatter.html",
+    "category": "AddIns",
+    "menuName": {
+      "en": "Geotab Report Reformatter"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  
+  
+  "dev": {
+    "root": "geotabReformatter",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
